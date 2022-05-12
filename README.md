@@ -1,0 +1,1 @@
+The People’s Garage grows existing and new tool libraries by giving their direct ownership and governance to the communities that benefit from them. Together we eliminate the inefficiency and environmental damage of individual ownership of tools through sharing. 
